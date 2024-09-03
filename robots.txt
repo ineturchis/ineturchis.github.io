@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineturchis.github.io/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/app/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/assets/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/css/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/includes/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/item/sitemap.html.gz
+Sitemap: https://ineturchis.github.io/src/sitemap.html.gz
